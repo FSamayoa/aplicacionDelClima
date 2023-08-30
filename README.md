@@ -1,0 +1,1 @@
+Validar el clima en un lugar
